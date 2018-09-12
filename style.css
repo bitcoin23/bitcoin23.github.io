@@ -1,9 +1,9 @@
 body  {
-  background: green;
+  background: black;
   }
 
 p {
-  color: blue;
-  font-family: Times ;
-  font-size: 10em ;
+  color: white;
+  font-family: Monospace ;
+  font-size: 5em ;
 }
