@@ -4,5 +4,6 @@ body  {
 
 p {
   color: blue;
-  font-family: Times New Roman;
+  font-family: Times ;
+  font-size: 3em ;
 }
