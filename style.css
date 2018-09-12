@@ -7,3 +7,9 @@ p {
   font-family: Monospace ;
   font-size: 5em ;
 }
+
+a {
+  font-family: Monospace;
+  color: white;
+  font-size: 20px ;
+}
